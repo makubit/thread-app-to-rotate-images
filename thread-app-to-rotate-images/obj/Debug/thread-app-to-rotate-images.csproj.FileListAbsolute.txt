@@ -12,3 +12,17 @@ C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-imag
 C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.csproj.CoreCompileInputs.cache
 C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.exe
 C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.pdb
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\bin\Debug\thread-app-to-rotate-images.exe.config
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\bin\Debug\thread-app-to-rotate-images.exe
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\bin\Debug\thread-app-to-rotate-images.pdb
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\MainWindow.g.cs
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\App.g.cs
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images_MarkupCompile.cache
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images_MarkupCompile.lref
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\MainWindow.baml
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.g.resources
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread_app_to_rotate_images.Properties.Resources.resources
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.csproj.GenerateResource.Cache
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.csproj.CoreCompileInputs.cache
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.exe
+E:\repos\My_Github\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.pdb

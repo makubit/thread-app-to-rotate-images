@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -23,6 +24,18 @@ namespace thread_app_to_rotate_images
         public MainWindow()
         {
             InitializeComponent();
+            Task.Factory.StartNew(ChangeCompanyName);
+        }
+
+        private void ChangeCompanyName()
+        {
+            Thread.Sleep(2500);
+            UpdateCompanyName("Dassault Systemes");
+        }
+
+        private void UpdateCompanyName(string companyName)
+        {
+            Dispatcher.Invoke(() => txtMessage.Text = companyName);
         }
     }
 }
