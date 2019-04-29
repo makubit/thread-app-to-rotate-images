@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace thread_app_to_rotate_images
+namespace app_to_rotate_images_using_threads
 {
     class Program
     {
