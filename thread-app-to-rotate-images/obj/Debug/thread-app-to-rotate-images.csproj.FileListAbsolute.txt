@@ -1,0 +1,14 @@
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\bin\Debug\thread-app-to-rotate-images.exe.config
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\bin\Debug\thread-app-to-rotate-images.exe
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\bin\Debug\thread-app-to-rotate-images.pdb
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\MainWindow.g.cs
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\App.g.cs
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images_MarkupCompile.cache
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images_MarkupCompile.lref
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\MainWindow.baml
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.g.resources
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread_app_to_rotate_images.Properties.Resources.resources
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.csproj.GenerateResource.Cache
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.csproj.CoreCompileInputs.cache
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.exe
+C:\Users\mkt9\source\repos\thread-app-to-rotate-images\thread-app-to-rotate-images\obj\Debug\thread-app-to-rotate-images.pdb
