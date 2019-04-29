@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread-app-to-rotate-images", "thread-app-to-rotate-images\thread-app-to-rotate-images.csproj", "{804BF867-39C8-44D5-9B5F-B5BA7B5DD74B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread-app-to-rotate-images", "thread-app-to-rotate-images\thread-app-to-rotate-images.csproj", "{6018B727-05A0-4E65-AD91-8228E1CBF05D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{804BF867-39C8-44D5-9B5F-B5BA7B5DD74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{804BF867-39C8-44D5-9B5F-B5BA7B5DD74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{804BF867-39C8-44D5-9B5F-B5BA7B5DD74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{804BF867-39C8-44D5-9B5F-B5BA7B5DD74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6018B727-05A0-4E65-AD91-8228E1CBF05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6018B727-05A0-4E65-AD91-8228E1CBF05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6018B727-05A0-4E65-AD91-8228E1CBF05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6018B727-05A0-4E65-AD91-8228E1CBF05D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3D397A11-F25D-41A1-A3B4-6FDC255D47F9}
+		SolutionGuid = {569083F3-2863-434A-991F-0BCE37376901}
 	EndGlobalSection
 EndGlobal
